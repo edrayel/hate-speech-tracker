@@ -1,2 +1,2 @@
-# Raphael
-A mobile application that's none of your business at the moment.
+# Yafe
+A test-run mobile application built to track hate speech using Twitter's API
